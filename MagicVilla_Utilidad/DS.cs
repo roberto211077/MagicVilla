@@ -8,6 +8,9 @@
             POST,
             PUT,
             DELETE
-        } 
+        }
+
+        public static string SessionToken = "JWToken";
+
     }
 }
