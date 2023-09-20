@@ -81,3 +81,5 @@ D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\r
 D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.dll
 D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Cursos\WebApiUdemyNet7\PROYECTOS\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
